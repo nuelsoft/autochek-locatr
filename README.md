@@ -22,7 +22,7 @@ This should create a new file `.env` in the folder. Add the required values agai
 > A simple `npm start` should launch the app.
 
 ## Tools Used
-> App requires the depends on
+> App depends on
 - POSTGRES
 - NEST JS
 - Type ORM
